@@ -42,12 +42,12 @@ function prosesRekomendasi()
     if(pedas == "1")
     {
         saranPedas =
-        "🌶️ Anda tidak tahan pedas. Disarankan meminta cabai dipisah.";
+        "🌶️ Anda tidak tahan pedas.";
     }
     else if(pedas == "2")
     {
         saranPedas =
-        "🌶️ Cabai dapat dipisah sesuai selera.";
+        "🌶️ Anda tidak terlalu tahan pedas.🌶️ Disarankan meminta cabai dipisah.";
     }
     else if(pedas == "3")
     {
