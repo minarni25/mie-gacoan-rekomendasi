@@ -47,7 +47,8 @@ function prosesRekomendasi()
     else if(pedas == "2")
     {
         saranPedas =
-        "🌶️ Anda tidak terlalu tahan pedas.\nDisarankan meminta cabai dipisah.";
+        "🌶️ Anda tidak terlalu tahan pedas.\n
+        "Disarankan meminta cabai dipisah.";
     }
     else if(pedas == "3")
     {
